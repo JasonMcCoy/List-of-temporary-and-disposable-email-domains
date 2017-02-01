@@ -12,4 +12,4 @@ https://gist.github.com/adamloving/4401361
 https://gist.github.com/michenriksen/8710649
 
 https://github.com/FGRibreau/mailchecker
-(The list that I converted from .jason to .xlsx which covers 2748 more fake email providers.)
+(The list that I converted from .json to .xlsx which covers 2748 more fake email providers.)
