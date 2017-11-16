@@ -1,8 +1,8 @@
 # List-of-temporary-and-disposable-email-domains
-[02-01-2017] Here is a list of 2861 domains for disposable and temporary email addresses and another list that covers 2748 fake email providers. I did not cross check both of these excel files for duplicates.
+[11-16-2017] Here is an excel list of 2477 disposable and temporary domains. 
 
 
-Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened).
+This is useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened). Also, I use this to filter sign ups for my iOS and Android app.
 
 
 Thank you to the following:
