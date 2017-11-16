@@ -1,5 +1,5 @@
-# List-of-temporary-and-disposable-email-domains
-[11-16-2017] Here is an excel list of 2477 disposable and temporary domains. 
+# List of temporary and disposable email domains
+As of 11-16-2017, here is an excel list of 2477 disposable and temporary domains. 
 
 
 This is useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened). Also, I use this to filter sign ups for my iOS and Android app.
